@@ -1,0 +1,9 @@
+# data and datasets
+data
+gifs
+
+# jupyter files
+.ipynb_checkpoints
+
+# macOS garbage
+.DS_Store
